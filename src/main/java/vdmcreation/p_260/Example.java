@@ -1,4 +1,4 @@
-package com.p_260;
+package vdmcreation.p_260;
 
 public class Example {
     //Question:  Can we start a thread two times in Java?
